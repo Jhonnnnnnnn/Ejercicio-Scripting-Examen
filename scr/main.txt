@@ -1,0 +1,6 @@
+sudo touch 01-hola-mundo.sh
+nano touch 01-hola-mundo.sh
+#!/bin/bash
+echo Hola mundo!
+guardar y salir 
+source 01-hola-mundo.sh
